@@ -1,4 +1,5 @@
-Below is a link to the Tableau Public file for this project: https://public.tableau.com/app/profile/chad.vonholtz/viz/ChicagoCrimeDataAnalysis_16771580318970
+Below is a link to the Tableau Public file for this project: 
+https://public.tableau.com/app/profile/chad.vonholtz/viz/ChicagoCrimeDataAnalysis_16771580318970/Story
 
 Data for this project was gathered from the City of Chicago's Data Portal. More information can be found here: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
 
